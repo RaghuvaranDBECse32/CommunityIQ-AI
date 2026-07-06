@@ -1,0 +1,1 @@
+"""CommunityIQ AI — Analytics package."""
