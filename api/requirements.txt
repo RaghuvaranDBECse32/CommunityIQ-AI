@@ -3,5 +3,7 @@ uvicorn[standard]
 SQLAlchemy
 pydantic
 pandas
+python-dotenv
+click
 # Optional GPU acceleration package (install only on GPU-enabled runners)
 # cudf
